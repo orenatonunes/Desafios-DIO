@@ -8,24 +8,19 @@ Repositório para armazenar resumos e informações sobre Git e GitHub do curso 
 - [Documentação Git]()
 - [Documentação GitHub]()
 
+
 ## 📰 Resumos das Aulas
 
 | Aulas | Resumos|
 |-------|--------|
 | Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
-| Gravando Alterações Local| [Resumos]()|
+
 
 
 ### 🥸 Caixas de Código
 
 ```
-git init
+git init - (Serve para Iniciar um repositório Localmente)
 
 ```
 
